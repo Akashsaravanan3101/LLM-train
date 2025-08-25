@@ -1,0 +1,1 @@
+Store normalized FHIR JSON here (Condition, Procedure, Observation, MedicationRequest).

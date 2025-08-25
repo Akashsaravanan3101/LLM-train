@@ -1,0 +1,4 @@
+ADA-style sample guideline text (placeholder).
+- For symptomatic irreversible pulpitis, definitive treatment is endodontic therapy.
+- Avoid unnecessary antibiotics; reserve for systemic involvement (fever, swelling).
+- Always review allergies, pregnancy, and anticoagulant therapy before prescribing.

@@ -1,0 +1,24 @@
+{
+  "payload": {
+    "role": "Dentist",
+    "patient_ctx": {
+      "age": 34,
+      "sex": "F",
+      "pregnant": true,
+      "allergies": []
+    },
+    "chief_complaint": "Pain on chewing, lower right molar for 3 days",
+    "exam": {
+      "tooth": "46",
+      "percussion": "tender",
+      "pulp_test": "lingering pain",
+      "periodontal_probing_mm": 3,
+      "radiograph": "deep caries approximating the pulp"
+    },
+    "vitals": {
+      "bp": "118/76",
+      "temp_c": 36.8
+    },
+    "confirmed_by_dentist": true
+  }
+}

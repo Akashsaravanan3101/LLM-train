@@ -1,0 +1,13 @@
+transformers>=4.42
+datasets
+peft
+bitsandbytes
+accelerate
+pydantic>=2
+fastapi
+uvicorn[standard]
+orjson
+jsonschema
+sentence-transformers
+faiss-cpu
+numpy
